@@ -32,7 +32,7 @@ Las pruebas se pueden ejecutar utilizando el siguiente comando:
 ```bash
 python -m unittest test_calculadoraimaginario.py
 
-##Requisitos
+#Requisitos
 - Python 3.x
 - Módulo unittest (incluido en la biblioteca estándar de Python)
 - Módulo math (incluido en la biblioteca estándar de Python)
