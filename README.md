@@ -5,7 +5,7 @@ Este proyecto implementa una calculadora básica para operaciones con números c
 ## Archivos
 
 - **calculadoraimaginario.py**: Contiene las implementaciones de las operaciones básicas para números complejos.
-- **test_calculadoraimaginario.py**: Contiene las pruebas unitarias para verificar la funcionalidad de cada operación en `calculadoraimaginario.py`.
+- **tester.py**: Contiene las pruebas unitarias para verificar la funcionalidad de cada operación en `calculadoraimaginario.py`.
 
 ## Funciones Implementadas
 
